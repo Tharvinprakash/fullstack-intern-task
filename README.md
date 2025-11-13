@@ -2,12 +2,12 @@
 
 A fullstack application with React frontend and Node.js backend for template management with user authentication and favorites functionality.
 
-
-Name : Tharvin prakash  
-Email : tharvinprakash23@gmail.com
-Linkedin : [LinkedIn] https://www.linkedin.com/in/tharvin  
-Github : [GitHub] https://github.com/Tharvinprakash
-Ph.No : 9361859374
+## 👨‍💻 Author
+**Tharvin Prakash**  
+📧 tharvinprakash23@gmail.com  
+📞 9361859374  
+🔗 [LinkedIn](https://www.linkedin.com/in/tharvin)  
+🐙 [GitHub](https://github.com/Tharvinprakash)
 
 ## 🛠 Tech Stack
 
